@@ -1,0 +1,22 @@
+* {
+	margin: 10px;
+	padding: 5px;
+	font-size: 20px;
+	font: TimesNewRoman;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+table, th, td {
+	background-color: aquamarine;
+	width: 50%
+	border-spacing: 5px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th, td{
+	padding: 15px;
+}
